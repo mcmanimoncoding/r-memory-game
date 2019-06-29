@@ -1,0 +1,65 @@
+ [
+  {
+    "id": 1,
+    "name": "cafe1",
+    "image": "./assets/img/9daec448a3b2232aab1f3160e8c1ded7.jpg",
+    "occupation": "Fry Cook",
+    "location": "A Pineapple Under the Sea"
+  },
+  {
+    "id": 2,
+    "name": "cafe2",
+    "image": "./assets/img/729d347ef5f7aa6a81820d3285eacd9f.jpg",
+    "occupation": "Restaurant Owner",
+    "location": "A Giant Anchor"
+  },
+  {
+    "id": 3,
+    "name": "cafe3",
+    "image": "./assets/img/08749a81f75efc99921ad609a032a117.jpg",
+    "occupation": "Cashier",
+    "location": "An Easter Island Head"
+  },
+  {
+    "id": 4,
+    "name": "cafe4",
+    "image": "./assets/img/16386f289b64ddebd5ce86dc64e1c541--bmw-caferacer-scrambler-motorcycle.jpg",
+    "occupation": "Boy Genius",
+    "location": "A Secret Laboratory"
+  },
+  {
+    "id": 5,
+    "name": "cafe5",
+    "image": "./assets/img/7433350dca767ccdfe9d4b6b900b749c.jpg",
+    "occupation": "A Cowardly Dog",
+    "location": "Nowhere, Kansas"
+  },
+  {
+    "id": 6,
+    "name": "cafe6",
+    "image": "./assets/img/0727023762c520b4d432c599a7fedf41.jpg",
+    "occupation": "Student",
+    "location": "Bluffington"
+  },
+  {
+    "id": 7,
+    "name": "cafe7",
+    "image": "./assets/img/bmw crome.jpg",
+    "occupation": "Looney Toon",
+    "location": "A Rabbit Burrow"
+  },
+  {
+    "id": 8,
+    "name": "cafe8",
+    "image": "./assets/img/c9de367c805eea20f3ab053d9141f52c.jpg",
+    "occupation": "Ladies Man",
+    "location": "Aron City"
+  },
+  {
+    "id": 9,
+    "name": "cafe9",
+    "image": "./assets/img/d988063a29579bed950cc3e519bda2f4.jpg",
+    "occupation": "Adventurer",
+    "location": "California"
+  }
+]
